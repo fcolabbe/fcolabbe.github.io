@@ -19,6 +19,14 @@ body {
   background-position: center;
 }
 
+/* Mi Experiencia */
+.card {
+  min-height: 450px;
+}
+.logo-experiencia-container {
+  min-height: 110px;
+}
+
 /* Contacto */
 
 #Contacto form label {
@@ -31,11 +39,10 @@ body {
     font-weight: 400;
   }
 
-  .navbar-brand{
+  .navbar-brand {
     width: 100px;
   }
-
 }
-.bg-dark { 
-  background-color: black !important; 
-  }
+.bg-dark {
+  background-color: black !important;
+}
