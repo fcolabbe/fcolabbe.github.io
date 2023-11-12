@@ -1,7 +1,4 @@
 # fcolabbe.github.io
-Aquí tiene un posible texto para el README de su proyecto en GitHub:
-
-# fcolabbe.github.io
 
 Este repositorio contiene el código fuente de mi página web personal alojada en GitHub Pages: https://fcolabbe.github.io
 
