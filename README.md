@@ -2,6 +2,14 @@
 
 Este repositorio contiene el código fuente de mi página web personal alojada en GitHub Pages: https://fcolabbe.github.io
 
+Ademas como parte del desafio se realizaron forks y pull request de los siguietes repositorios
+
+1.- https://github.com/IsaRomeroJ/IsaRomeroJ.github.io 
+
+2.- https://github.com/Anayamaraya/Anayamaraya.github.io
+
+En ambos casos el pull request fueron aporbados
+
 La página web fue creada para presentar mi currículum y portafolio personal. Fue desarrollada utilizando HTML, CSS y Bootstrap.
 
 ## Secciones
