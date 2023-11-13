@@ -2,7 +2,7 @@
 
 Este repositorio contiene el código fuente de mi página web personal alojada en GitHub Pages: https://fcolabbe.github.io
 
-Ademas como parte del desafio se realizaron forks y pull request de los siguietes repositorios
+Ademas como parte del desafio se realizaron forks y pull request de los siguientes repositorios
 
 1.- https://github.com/IsaRomeroJ/IsaRomeroJ.github.io 
 
